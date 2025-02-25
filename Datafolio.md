@@ -1,2 +1,2 @@
 🖼 **Project Snapshot:**  
-![Datafolio Preview](Datafolio.png)  
+![Datafolio Preview](DatafolioImage.png)  
