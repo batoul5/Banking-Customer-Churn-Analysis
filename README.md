@@ -14,4 +14,4 @@ For an interactive exploration of customer churn insights, check out the **Table
 🔗 [Download Dataset](https://github.com/batoul5/Banking-Customer-Churn-Analysis/blob/main/Churn_Modelling_202502231948.sql)  
 
 ## 🖼 Datafolio
-![Datafolio Preview](Datafolio.png)  
+![Datafolio Preview](DatafolioImage.png)  
