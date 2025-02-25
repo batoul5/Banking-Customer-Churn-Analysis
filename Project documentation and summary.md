@@ -23,7 +23,7 @@ Many banks face challenges with high customer churn rates, leading to substantia
 
 - **Gender Distribution:**
   - **54.57% Male**, **45.43% Female**.
-  - **Female customers have a slightly higher churn rate than males.**
+  - **Female customers have a higher churn rate than males.**
 - **Age Group Analysis:**
   - Customers aged **46-55** have the highest churn rates.
 - **Regional Churn Rates:**
